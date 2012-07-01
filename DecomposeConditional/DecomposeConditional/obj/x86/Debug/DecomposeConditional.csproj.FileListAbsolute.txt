@@ -1,0 +1,5 @@
+D:\ProtoTypes\DecomposeConditional\DecomposeConditional\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\DecomposeConditional\DecomposeConditional\bin\Debug\DecomposeConditional.exe
+D:\ProtoTypes\DecomposeConditional\DecomposeConditional\bin\Debug\DecomposeConditional.pdb
+D:\ProtoTypes\DecomposeConditional\DecomposeConditional\obj\x86\Debug\DecomposeConditional.exe
+D:\ProtoTypes\DecomposeConditional\DecomposeConditional\obj\x86\Debug\DecomposeConditional.pdb

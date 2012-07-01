@@ -1,0 +1,5 @@
+D:\ProtoTypes\ReplaceTypeCodeWithSubClasses\ReplaceTypeCodeWithSubClasses\bin\Debug\ReplaceTypeCodeWithSubClasses.exe
+D:\ProtoTypes\ReplaceTypeCodeWithSubClasses\ReplaceTypeCodeWithSubClasses\bin\Debug\ReplaceTypeCodeWithSubClasses.pdb
+D:\ProtoTypes\ReplaceTypeCodeWithSubClasses\ReplaceTypeCodeWithSubClasses\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\ReplaceTypeCodeWithSubClasses\ReplaceTypeCodeWithSubClasses\obj\x86\Debug\ReplaceTypeCodeWithSubClasses.exe
+D:\ProtoTypes\ReplaceTypeCodeWithSubClasses\ReplaceTypeCodeWithSubClasses\obj\x86\Debug\ReplaceTypeCodeWithSubClasses.pdb

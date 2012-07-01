@@ -1,0 +1,5 @@
+D:\ProtoTypes\ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass\bin\Debug\ReplaceTypeCodeWithClass.exe
+D:\ProtoTypes\ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass\bin\Debug\ReplaceTypeCodeWithClass.pdb
+D:\ProtoTypes\ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass\obj\x86\Debug\ReplaceTypeCodeWithClass.exe
+D:\ProtoTypes\ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass\obj\x86\Debug\ReplaceTypeCodeWithClass.pdb

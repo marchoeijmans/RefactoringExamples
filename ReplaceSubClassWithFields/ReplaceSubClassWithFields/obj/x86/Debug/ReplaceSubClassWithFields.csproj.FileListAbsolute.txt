@@ -1,0 +1,5 @@
+D:\ProtoTypes\ReplaceSubClassWithFields\ReplaceSubClassWithFields\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProtoTypes\ReplaceSubClassWithFields\ReplaceSubClassWithFields\bin\Debug\ReplaceSubClassWithFields.exe
+D:\ProtoTypes\ReplaceSubClassWithFields\ReplaceSubClassWithFields\bin\Debug\ReplaceSubClassWithFields.pdb
+D:\ProtoTypes\ReplaceSubClassWithFields\ReplaceSubClassWithFields\obj\x86\Debug\ReplaceSubClassWithFields.exe
+D:\ProtoTypes\ReplaceSubClassWithFields\ReplaceSubClassWithFields\obj\x86\Debug\ReplaceSubClassWithFields.pdb

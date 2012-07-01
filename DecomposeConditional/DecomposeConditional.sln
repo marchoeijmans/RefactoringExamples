@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecomposeConditional", "DecomposeConditional\DecomposeConditional.csproj", "{EF06D8BE-3A25-4716-9057-86F9404D6B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF06D8BE-3A25-4716-9057-86F9404D6B32}.Debug|x86.ActiveCfg = Debug|x86
+		{EF06D8BE-3A25-4716-9057-86F9404D6B32}.Debug|x86.Build.0 = Debug|x86
+		{EF06D8BE-3A25-4716-9057-86F9404D6B32}.Release|x86.ActiveCfg = Release|x86
+		{EF06D8BE-3A25-4716-9057-86F9404D6B32}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
